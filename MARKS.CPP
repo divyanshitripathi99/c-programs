@@ -13,6 +13,5 @@ percent=(total/500)*100;
 printf("\n totalmarks =%f",total);
 printf("\n avg=%f",avg);
 printf("\n percent =%f",percent);
-printf("knkjhjkdfkjhg");
 
 }
